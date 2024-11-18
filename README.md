@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nocturm221
+- 👀 I’m interested in cibersecurity, pentesting.
+- 🌱 I’m currently learning to hack
+- 💞️ I’m looking to collaborate on solving CTFs and building projects
+- 📫 How to reach me, fmlopez.221@gmail.com
+- 😄 Pronouns: Hack/Them
+- ⚡ Fun fact: I like dogs, and cats, and hacking you.
